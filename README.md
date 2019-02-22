@@ -1,11 +1,8 @@
-# The monster that is *itbrainpower*
+# The monster that is *[itbrainpower.net](https://itbrainpower.net/)*
 &nbsp;
 &nbsp;
 
-### The website
-[itbrainpower.net](https://itbrainpower.net/)
-
-It's a website that sells arduino's, raspberry pi's, ...
+It's a website that sells arduino's, raspberry pi's, ... But you wouldn't know it did if you opened the website
 
 &nbsp;
 &nbsp;
